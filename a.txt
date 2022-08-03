@@ -9,7 +9,7 @@ hello git\n	22222222222
 hello git\n	22222222222
 hello git\n	22222222222
 hello git\n	22222222222
-hello git\n	master
+hello git\n	mastera
 hello git\n
 hello git\n
 hello git\n
